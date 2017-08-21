@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">iSot</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="loginId">login id</string>
+    <string name="password">password</string>
+    <string name="register_here">Not Registered? Register here</string>
+    <string name="shared_preference">isotPreference</string>
+    <string name="serviceURL">https://dummy.url.com/</string>
+    <string name="firstName">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="email_id">Email Id</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="postal_address">Postal Address.</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register_activity_title">Register User</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
